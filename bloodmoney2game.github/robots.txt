@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://https://bloodmoney2game.github/sitemap.xml
